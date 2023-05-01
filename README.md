@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/jbvfgcke9s](https://flowcv.com/resume/jbvfgcke9s)
 
-- ⚡ Fun fact **I think I have the longest fingers out of anyone you know**
+- ⚡ Fun fact **I like anime, Fps , almost any form of comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
