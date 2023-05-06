@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, My name is Ngozi but my friends call me Sam</h1>
-<h3 align="center">A passionate FullStack developer from Nigerian , I love designing, programming and anime</h3>
+<h3 align="center">A passionate FullStack developer from Nigeria
+  , I love designing, programming and anime</h3>
 
 - 🌱 I’m currently learning : **Next.js**
 
