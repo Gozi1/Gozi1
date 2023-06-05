@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/jbvfgcke9s](https://flowcv.com/resume/jbvfgcke9s)
 
-- ⚡ Fun fact **I like anime, Fps , almost any form of comedy**
+- ⚡ Fun fact **I like anime, Fps and most forms of comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
